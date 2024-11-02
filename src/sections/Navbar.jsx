@@ -2,9 +2,9 @@ import React from 'react';
 
 const Navbar = () => {
   return (
-    <div className="text-white">
+    <header className="fixed">
       <p>Navbar</p>
-    </div>
+    </header>
   );
 };
 
